@@ -29,3 +29,6 @@ We will choose a nice name for our report and write "FY 2022" in the second row,
 We will create a Summary tab that helps our manager to read the report.
 Step 5:
 We will save all tabs and pivot tables and submit our work as an Excel file format.
+
+#Link for the final dataware house in exel
+https://docs.google.com/spreadsheets/d/13IarGZZ4aupo62IEZTii6B1oelYuGB69/edit?usp=share_link&ouid=117570485710671458515&rtpof=true&sd=true
